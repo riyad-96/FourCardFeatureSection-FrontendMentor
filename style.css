@@ -255,7 +255,7 @@ h6 {
   }
 }
 
-.animatio {
+.animation {
   animation-name: landing-animation;
   animation-duration: 1s;
   animation-fill-mode: both;
@@ -273,7 +273,7 @@ h6 {
   }
 }
 
-.drop-dow {
+.drop-down {
   animation-name: drop-down;
   animation-duration: 1s;
   animation-fill-mode: both;
